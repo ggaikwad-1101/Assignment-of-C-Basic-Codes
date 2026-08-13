@@ -9,7 +9,4 @@ int main() {
     cout << "Addition = " << a + b;
 
     return 0;
-}
-
-
-
+}   
